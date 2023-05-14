@@ -12,8 +12,8 @@ We have a monthly time series data of the air passengers from 1 Jan 1949 to 1 De
     * DataType of Columns
     * Descriptive Statistics
     * Checking for null values and handling them if any.
-    * Analysing Trend, variance and Seasonaity of Time Series Data
+    * Analysing Trend, variance and Seasonality of Time Series Data
     * Decompostion of Time Series (Trend, Seasonal, Residual Components)
 4. Forecasting Methods Used : ARIMA, SARIMA, Exponential Smoothing (Single, Double, Triple)
     * For ARIMA : Stationary Test (Augmented Dickey-Fuller (ADF) Test), Differencing, ACF and PACF Correlation Plots, Auto Arima
-6. Comparing different model performances and then chossing the most effective one.
+6. Comparing different model performances and then choosing the most effective one.
